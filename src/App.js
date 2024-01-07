@@ -1,10 +1,16 @@
 import Navbar from './Components/Navbar';
-import Mainpage from './Components/Mainpage';
+import Main2 from './Components/Main2';
+import Main1 from './Components/Main1';
+import Main3 from './Components/Main3';
+import Main4 from './Components/Main4';
 function App() {
   return (
     <>
     <Navbar/>
-    <Mainpage/>
+    <Main1/>
+    <Main2/>
+    <Main3/>
+    <Main4/>
     </>
   );
 }

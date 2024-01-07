@@ -311,3 +311,45 @@ margin-left: 36px;
   animation: zoomInOut 4s infinite; /* Adjust the duration as needed */
 }
 
+
+.main4{
+  background-color: #F9FAFC;
+  height: 400px;
+}
+
+
+.main4-arrow{
+    font-size: 30px;
+    padding-left:615px;
+}
+
+.main4-title{
+  font-size: 30px;
+  padding-left:580px;
+  padding-top: 15px;
+}
+
+
+.main4-data{
+  display: flex;
+  padding-top: 10px;
+  justify-content: center;
+}
+
+
+
+.image-container {
+  width: 298px;
+  height: 253px;
+  margin: 45px;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+  transition: transform 0.3s ease-in-out;
+}
+
+.image-container:hover img {
+  transform: scale(1.2);
+}
