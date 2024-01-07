@@ -92,10 +92,27 @@ const Mainpage = () => {
               <div className='main2-3_maindata-1-1-data'><b>Innovation and Expertise</b> <br/>Your Elite IT Partner for Web Development, E-Commerce, and IPTV solutions.</div></div>
               <div className='main2-3_maindata-1-1-image'></div>
           </div>
-          <div className='main2-3_maindata-2'><img src="Subtract.png" width={"400px"}/>
+          <div className='main2-3_maindata-2'><img src="Subtract.png" width={"350px"}/>
             <div className='image5'><img src="_ (1).png"/></div><div className='image6'><img src="_.png"/></div>
           </div>
         </div>
+        </div>
+
+        <div className='main4'>
+          <div className='main4-title'></div>
+          <div className='main4-arrow'>&#8596;</div>
+          <div className='main4-title'>portfolio</div>
+          <div className='main4-data'>
+          <div class="image-container">
+                  <img src="Rectangle 621 (1).png" alt="Image 1"/>
+          </div>
+          <div class="image-container">
+                  <img src="Rectangle 621 (2).png" alt="Image 2"/>
+          </div>
+          <div class="image-container">
+                  <img src="Rectangle 621.png" alt="Image 3"/>
+          </div>            
+          </div>
         </div>
     </>
   );
